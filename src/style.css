@@ -3,6 +3,10 @@ body {
   font-weight: 500;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 html,
 body,
 ul,
